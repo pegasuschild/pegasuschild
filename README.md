@@ -1,6 +1,25 @@
 # Hi, I'm Daniel Young!
 
-I'm a budding data scientist passionate about making analytics accessible. Check out my [DataBite Chatbot](https://github.com/pegasuschild/DataBite-Chatbot) to see how I simplify data science terms with Python and Streamlit!
+I’m a passionate citizen data scientist and advocate for **data democracy**, with over a decade translating complex analytics into clear, actionable insights for non-tech teams. My work in championing innovation and citizen development was featured in Professor Tom Davenport’s new book. With expertise in statistical modeling, machine learning, and AI, I specialize in making data accessible to everyone, bridging the gap between deep tech and everyday decisions.
 
-- 🌟 Skills: Python, Streamlit, Data Science
-- 📫 Connect: (https://www.linkedin.com/in/danielsyoung/)
+My core belief: technology and AI should serve people, not the other way around. I lead initiatives in **data science**, **predictive modeling**, **credit risk**, **default forecasting**, **geospatial analytics**, and **location intelligence** to drive smarter choices at scale.
+
+## Projects
+- [DataBite Chatbot](https://github.com/pegasuschild/DataBite-Chatbot): A Streamlit app that explains data science terms in simple, 10-year-old-friendly language.
+
+## 🌟 Skills
+- Data Science
+- Predictive Modeling
+- Credit Risk Analysis
+- Default Forecasting
+- Geospatial Analytics
+- Location Intelligence
+- Machine Learning
+- Artificial Intelligence
+- Data Analytics
+- Python
+- Alteryx
+- Tableau/ Power BI
+
+## 📫 Connect
+(https://www.linkedin.com/in/danielsyoung/)
