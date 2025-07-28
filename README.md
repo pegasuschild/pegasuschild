@@ -6,6 +6,7 @@ My core belief: technology and AI should serve people, not the other way around.
 
 ## Projects
 - [DataBite Chatbot](https://github.com/pegasuschild/DataBite-Chatbot): A Streamlit app that explains data science terms in simple, 10-year-old-friendly language.
+- [Weather Agent] (https://github.com/pegasuschild/weather-agent): An agent to provide daily activity recommendations (walks, indoor options) based on a user-defined location's weather, air quality, and weather event warnings.
 
 ## 🌟 Skills
 - Data Science
